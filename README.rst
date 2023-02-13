@@ -1,3 +1,5 @@
+**Attention: this is a provisional copy of https://github.com/python/cpython made for early but full-scale tests of bots without creating confusion with real, upstream-targeted issues and PRs.**
+
 This is Python version 3.12.0 alpha 5
 =====================================
 
